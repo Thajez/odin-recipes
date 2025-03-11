@@ -12,3 +12,8 @@ What have I Learned:
   Using images in HTML.
   Using anchors to navigate trough my pages and external sources.
   Site structuring.
+
+What have I Learned (revisiting 1st time):
+  CSS cascade properties.
+  How to manipulate margin,padding,border to position elements.
+  Difference between inline and box.
