@@ -1,5 +1,6 @@
 # odin-recipes
 Project for Odin curicullum
+
 Preview: thajez.github.io/odin-recipes
 
 Goals to achieve:
